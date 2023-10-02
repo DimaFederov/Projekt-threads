@@ -27,7 +27,7 @@ const HeaderTop = () => {
       </style>
       <div className="navbar">
         <div className="navbar-text">
-          <b>CONFESSIONS</b>
+          <b>CONfess</b>
         </div>
       </div>
     </div>
